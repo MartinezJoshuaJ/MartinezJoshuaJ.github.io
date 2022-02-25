@@ -1,2 +1,0 @@
-# martinezjoshuaj.github.io
-
