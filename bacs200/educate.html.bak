@@ -16,7 +16,7 @@
 		
 		<h3>The first 20 hours -- how to learn anything | Josh Kaufman</h3>
 		
-		<iframe src="https://www.youtube.com/embed/5MgBikgcWnY" width="560" height="315"  title="YouTube video player" frameborder="0" 
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/5MgBikgcWnY" title="YouTube video player" frameborder="0" 
 		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		
 		<h3>Top hacker shows us how it's done | Pablos Holman</h3>
@@ -35,8 +35,7 @@
 		
 		<h3>RSA ANIMATE: The Secret Powers of Time</h3>
 		
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/A3oIiH7BLmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/A3oIiH7BLmg" title="YouTube video player" frameborder="0" 
 		</section>
 		
 		</body>
