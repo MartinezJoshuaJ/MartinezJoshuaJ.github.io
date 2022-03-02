@@ -52,6 +52,11 @@
 					<td><a href="test.html">https://martinezjoshuaj.github.io/bacs200/superhero.html</a></td>
 					<td><a href="https://validator.w3.org/nu/?showsource=yes&doc=https://martinezjoshuaj.github.io/bacs200/superhero.html">VALIDATE</a></td>
 				</tr>
+				<tr>
+					<td>Superhero</td>
+					<td><a href="test.html">https://martinezjoshuaj.github.io/bacs200/wanted.html</a></td>
+					<td><a href="https://validator.w3.org/nu/?showsource=yes&doc=https://martinezjoshuaj.github.io/bacs200/wanted.html">VALIDATE</a></td>
+				</tr>
 			</tbody>
 		</table>
 	</body>
