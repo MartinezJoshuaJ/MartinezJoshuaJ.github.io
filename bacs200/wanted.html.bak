@@ -11,6 +11,7 @@
 		<h2>Dead or Alive!</h2>
 	</header>
 	<main>
+		<h1>Cyclops</h1>
 		<a href="cyclops.jpg">
 			<img alt="Cyclops Picture" src="cyclops.jpg" height="100"></a>
 			<section>
