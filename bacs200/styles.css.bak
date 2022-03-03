@@ -6,7 +6,7 @@ header {
 }
 footer {
 	display:block;
-	list-style-position;
+	list-style-position: inside;
 	
 }
 main {

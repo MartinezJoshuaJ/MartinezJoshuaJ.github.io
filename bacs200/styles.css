@@ -1,8 +1,7 @@
 header {
 	background-color:gold;
 	border: 5px black;
-	margin: 5px 5px;
-	list-style-position: inside;
+	margin: 10px 100px;
 }
 footer {
 	display:block;
@@ -22,7 +21,8 @@ body {
 }
 h1 {
 	border: 2px dashed black;
-	margin: 10px 100px;
+	margin-top: 10px;
+	margin-bottom:0;
   font-size: 75pt;
   font-family: "Copperplate", fantasy;
 }
