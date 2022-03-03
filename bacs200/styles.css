@@ -34,11 +34,6 @@ footer p {
 	margin-block-start: 1;
   color: red;
 }
-img {
-	float: right;
-	margin: 5px 10px 15px 20px;
-	
-}
 #wantedList {
 	font-size: 30pt;
 	float: right;
