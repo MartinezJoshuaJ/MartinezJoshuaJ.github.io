@@ -8,7 +8,7 @@
   <body>
 	<header>
 		<h1><a href="cyclops.jpg">
-			<img alt="Cyclops Picture" src="cyclops.jpg" class="img" height="500"></a>Cyclops<br>Dead or Alive!</h1>
+			<img alt="Cyclops Picture" src="cyclops.jpg" class="img" height="500"></a><br>Cyclops<br>Dead or Alive!</h1>
 	</header>
 	<main>
 		
