@@ -2,9 +2,28 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Wanted</title>
+    <title>WANTED!</title>
   </head>
   <body>
-    <h1>Headline</h1>
+	<header>
+		<h1>Cyclops</h1>
+		<h2>Dead or Alive!</h2>
+	</header>
+	<main>
+		<h1>Cyclops</h1>
+		<a href="cyclops.jpg">
+			<img alt="Cyclops Picture" src="cyclops.jpg" height="100"></a>
+			<section>
+				<h2>Wanter For: </h2>
+				<ul>
+					<li>
+					"Optic blasts injuring two and destroying Kepner Hall"
+					</li>
+				</ul>
+			</section>
+		</main>
+		<footer>
+			<p> Joshua Martinez - Bacs200 &trade; </p>
+		</footer>
   </body>
 </html>
