@@ -8,6 +8,9 @@ footer {
 	display:block;
 	
 }
+main {
+	display:block;
+}
 body {
 	
 	text-align: center;

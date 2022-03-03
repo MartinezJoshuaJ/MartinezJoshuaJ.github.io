@@ -1,7 +1,7 @@
 header {
 	background-color:gold;
 	border: 5px black;
-	margin: 10px 5px;
+	margin: 5px 5px;
 	
 }
 footer {
@@ -30,6 +30,8 @@ h2 {
 	margin-bottom: 0;
 }
 p {
+	display:block;
+	margin-block-start: 1
   color: red;
 }
 img {
