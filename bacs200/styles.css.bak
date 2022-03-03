@@ -29,6 +29,10 @@ main h1 {
 	font-family: "Copperplate", fantasy;
 	font-size: 40pt;
 }
+main h2 {
+	font-family: "Copperplate", fantasy;
+	font-size: 12pt;
+}
 footer p {
 	display:block;
 	margin-block-start: 1;
