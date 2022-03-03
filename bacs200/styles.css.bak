@@ -24,7 +24,7 @@ h1 {
 	border: 2px dashed black;
 	margin-top: 10px;
 	margin-bottom:0;
-  font-size: 55pt;
+  font-size: 65pt;
   font-family: "Copperplate", fantasy;
 }
 h2 {
