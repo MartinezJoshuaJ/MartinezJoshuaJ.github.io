@@ -1,7 +1,14 @@
+main {
+	display: block;
+	
+}
 header {
-	background-color:gold;
+	background-color:yellow;
 	border: 5px black;
 	margin: 10px 100px;
+	
+}
+section {
 	
 }
 footer {
@@ -15,12 +22,13 @@ body {
 	background-color: powderblue;
 	border: 1px solid black;
 }
-main h1 {
-	border: 2px dashed black;
-	margin: 10px 100px;
+h1 {
   font-size: 75pt;
   font-family: "Copperplate", fantasy;
 }
+h2
+{
+	
 p {
   color: red;
 }
