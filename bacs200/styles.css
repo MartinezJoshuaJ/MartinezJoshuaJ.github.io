@@ -3,8 +3,8 @@ main {
 	
 }
 header {
-	background-color:dark blue;
-	border: 5px blue;
+	background-color:yellow;
+	border: 5px black;
 	margin: 10px 100px;
 	
 }
@@ -20,7 +20,6 @@ body {
 	text-align: center;
 	list-style-position: inside;
 	background-color: powderblue;
-	display: block;
 	border: 1px solid black;
 }
 h1 {
@@ -33,7 +32,5 @@ h2
 p {
   color: red;
 }
-img {
-	display: block;
-}
+
 

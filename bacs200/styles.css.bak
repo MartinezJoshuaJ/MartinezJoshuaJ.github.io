@@ -33,3 +33,7 @@ h2
 p {
   color: red;
 }
+img {
+	display: block;
+}
+
