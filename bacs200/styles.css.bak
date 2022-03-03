@@ -1,9 +1,35 @@
+main {
+	display: block;
+	
+}
+header {
+	background-color:dark blue;
+	border: 5px blue;
+	margin: 10px 100px;
+	
+}
+section {
+	
+}
+footer {
+	display:block;
+	
+}
 body {
-  background-color: powderblue;
+	
+	text-align: center;
+	list-style-position: inside;
+	background-color: powderblue;
+	display: block;
+	border: 1px solid black;
 }
 h1 {
-  color: blue;
+  font-size: 75pt;
+  font-family: "Copperplate", fantasy;
 }
+h2
+{
+	
 p {
   color: red;
 }
