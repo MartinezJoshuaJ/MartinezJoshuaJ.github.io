@@ -4,7 +4,11 @@ header {
 	margin: 10px 100px;
 }
 footer {
-	list-style-position: inside;
+	bottom: 0;
+	width: 100%;
+	position: fixed;
+	text-align: center;
+	
 	
 }
 main {
@@ -27,7 +31,7 @@ h2 {
 	font-weight: bold;
 	margin-bottom: 0;
 }
-p {
+footer p {
 	display:block;
 	margin-block-start: 1
   color: red;
