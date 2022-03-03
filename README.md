@@ -5,6 +5,6 @@
     <title>Bacs200</title>
   </head>
   <body>
-    <h1>Headline</h1>
+    <h1>Welcome to my page. <a href="/bacs200/index.html">Enter here</a></h1>
   </body>
 </html>
