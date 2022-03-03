@@ -12,7 +12,7 @@
 	</header>
 	<main>
 		<a href="cyclops.jpg">
-			<img alt="Cyclops Picture" src="cyclops.jpg" class="img.floatright" height="100"></a>
+			<img alt="Cyclops Picture" src="cyclops.jpg" class="img" height="100"></a>
 			<section>
 				<h2>Wanter For: </h2>
 				<ul>

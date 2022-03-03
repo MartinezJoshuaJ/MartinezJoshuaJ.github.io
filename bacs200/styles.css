@@ -29,4 +29,7 @@ img {
 	border: 1px dashed black;
 	margin 10px 10px 15px 20px;
 }
-
+#wantedList {
+	font-size 30pt;
+	float: right;
+}
