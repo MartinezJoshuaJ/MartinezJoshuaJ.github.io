@@ -4,6 +4,7 @@ header {
 	margin: 10px 100px;
 }
 footer {
+	display:block;
 	list-style-position: inside;
 	
 }
