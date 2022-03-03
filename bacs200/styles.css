@@ -31,11 +31,11 @@ main h1 {
 }
 footer p {
 	display:block;
-	margin-block-start: 1
+	margin-block-start: 1;
   color: red;
 }
 img {
-	float: left;
+	float: right;
 	margin: 5px 10px 15px 20px;
 	
 }
