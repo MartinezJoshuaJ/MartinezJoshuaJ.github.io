@@ -3,28 +3,28 @@
   <head>
     <meta charset="UTF-8">
 	<link rel="stylesheet" href="styles.css">
-    <title>WANTED!</title>
+    <title>WANTED</title>
   </head>
   <body>
 	<header>
-		<h1>WANTED<br>Dead or Alive!</h1>
+		<h1>WANTED!</h1>
+		<h2> Dead or Alive!</h2>
 	</header>
 	<main>
-	<h1>Cyclops</h1>
-	<a href="cyclops.jpg">
-			<img alt="Cyclops Picture" src="cyclops.jpg" class="img" height="300"
-			></a>
-			<section id="wantedList">
-				<h2> Wanted For: </h2>
-				<ul>
-					<li>
-					Optic blasts injuring two and destroying Kepner Hall
-					</li>
-				</ul>
-			</section>
-			</main>
-			<footer>
-			<p> Joshua Martinez - Bacs200 &trade; </p>
-		</footer>
+		<h1>Cyclops</h1>
+		<img alt="Cyclops Picture" src="cyclops.jpg" class="img" height="300"
+		></a>
+		<section id="wantedList">
+			<h2> Wanted For: </h2>
+			<ul>
+				<li>
+				Optic blasts injuring two and destroying Kepner Hall
+				</li>
+			</ul>
+		</section>
+	</main>
+	<footer>
+		<p> Joshua Martinez - Bacs200 &trade; </p>
+	</footer>
   </body>
 </html>
