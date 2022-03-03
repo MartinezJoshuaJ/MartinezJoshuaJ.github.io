@@ -20,16 +20,16 @@ body {
 	list-style-position: inside;
 	background-color: powderblue;
 }
-h1 {
+header h1 {
 	border: 2px dashed black;
 	margin-top: 10px;
 	margin-bottom:0;
   font-size: 65pt;
   font-family: "Copperplate", fantasy;
 }
-h2 {
-	font-weight: bold;
-	margin-bottom: 0;
+main h1 {
+	font-family: "Copperplate", fantasy;
+	font-size: 40pt;
 }
 footer p {
 	display:block;
@@ -40,6 +40,7 @@ img {
 	float: left;
 	border: 1px black;
 	margin: 10px 10px 15px 20px;
+	
 }
 #wantedList {
 	font-size 30pt;
