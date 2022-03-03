@@ -32,7 +32,7 @@ main h1 {
 main h2 
 {
 	font-family: "Copperplate", fantasy;
-	font-size: 12pt;
+	font-size: 35pt;
 }
 footer p {
 	display:block;
@@ -40,6 +40,6 @@ footer p {
   color: red;
 }
 #wantedList {
-	font-size: 25pt;
+	font-size: 15pt;
 	float: right;
 }
