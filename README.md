@@ -2,9 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Bacs200</title>
+    <h1>Bacs200</h1>
   </head>
   <body>
-    <h1>Headline</h1>
+    <h2>Welcome to my page. <a href="/bacs200/index.html">Enter here</a></h2>
   </body>
 </html>
