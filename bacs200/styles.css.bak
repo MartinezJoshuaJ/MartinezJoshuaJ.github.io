@@ -2,10 +2,11 @@ header {
 	background-color:gold;
 	border: 5px black;
 	margin: 5px 5px;
-	
+	list-style-position: inside;
 }
 footer {
 	display:block;
+	list-style-position;
 	
 }
 main {
