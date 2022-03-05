@@ -41,6 +41,9 @@ main ul
 	margin: 0 auto;
 	text-align: left;
 }
+img {
+	padding-left: 50 px;
+}
 #wantedList {
 	padding-top: 10px;
 	font-size: 15pt;
