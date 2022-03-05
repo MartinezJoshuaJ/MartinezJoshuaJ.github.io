@@ -3,15 +3,6 @@ header {
 	border: 5px black;
 	margin: 10px 100px;
 }
-footer {
-	bottom: 0;
-	width: 100%;
-	position: fixed;
-	text-align: center;
-	
-	
-}
-
 body {
 	
 	text-align: center;
@@ -25,6 +16,7 @@ header h1 {
   font-size: 55pt;
   font-family: "Copperplate", fantasy;
 }
+
 main h1 {
 	font-family: "Copperplate", fantasy;
 	font-size: 40pt;
@@ -34,12 +26,10 @@ main h2
 	font-family: "Copperplate", fantasy;
 	font-size: 35pt;
 }
-footer p {
-	display:block;
-	margin-block-start: 1;
-  color: red;
-}
 #wantedList {
 	font-size: 15pt;
 	float: right;
+}
+li {
+	font-size: 15pt;
 }

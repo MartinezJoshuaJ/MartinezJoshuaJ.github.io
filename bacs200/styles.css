@@ -1,22 +1,13 @@
-header {
-	background-color:gold;
-	border: 5px black;
-	margin: 10px 100px;
-}
-footer {
-	bottom: 0;
-	width: 100%;
-	position: fixed;
-	text-align: center;
-	
-	
-}
-
 body {
 	
 	text-align: center;
 	list-style-position: inside;
 	background-color: powderblue;
+}
+header {
+	background-color:gold;
+	border: 5px black;
+	margin: 10px 100px;
 }
 header h1 {
 	border: 2px dashed black;
@@ -25,6 +16,11 @@ header h1 {
   font-size: 55pt;
   font-family: "Copperplate", fantasy;
 }
+header h2 {
+	font-size: 20pt;
+	font-variant-caps: all-petite-caps;
+}
+
 main h1 {
 	font-family: "Copperplate", fantasy;
 	font-size: 40pt;
@@ -34,15 +30,13 @@ main h2
 	font-family: "Copperplate", fantasy;
 	font-size: 35pt;
 }
-footer p {
-	display:block;
-	margin-block-start: 1;
-  color: red;
+main ul
+{
+	display: table;
+	margin: 0 auto;
+	text-align: left;
 }
 #wantedList {
 	font-size: 15pt;
 	float: right;
-}
-li {
-	font-size: 15pt;
 }
