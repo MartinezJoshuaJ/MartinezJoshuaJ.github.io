@@ -17,18 +17,18 @@ header h1 {
   font-family: "Copperplate", fantasy;
 }
 header h2 {
-	font-size: 20pt;
+	font-size: 15pt;
 	font-variant-caps: all-petite-caps;
 }
 
 main h1 {
 	font-family: "Copperplate", fantasy;
-	font-size: 40pt;
+	font-size: 50pt;
 }
 main h2 
 {
 	font-family: "Copperplate", fantasy;
-	font-size: 35pt;
+	font-size: 25pt;
 }
 main ul
 {
