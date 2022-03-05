@@ -6,11 +6,10 @@ body {
 }
 header {
 	background-color:gold;
-	border: 5px black;
+	border: 5px dashed black;
 	margin: 10px 50px;
 }
 header h1 {
-	border: 2px dashed black;
 	margin-top: 10px;
 	margin-bottom:0;
   font-size: 55pt;
@@ -19,6 +18,10 @@ header h1 {
 header h2 {
 	font-size: 40pt;
 	font-variant-caps: all-petite-caps;
+}
+h1+h2 {
+	margin-top: -15px;
+	
 }
 
 main h1 {
