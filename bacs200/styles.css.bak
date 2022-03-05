@@ -7,7 +7,7 @@ body {
 header {
 	background-color:gold;
 	border: 5px dashed black;
-	margin: 10px 50px;
+	margin: 10px 100px;
 }
 header h1 {
 	margin-top: 10px;

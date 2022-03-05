@@ -10,7 +10,7 @@ header {
 	margin: 10px 100px;
 }
 header h1 {
-	margin-top: 10px;
+	margin-top: -10px;
 	margin-bottom:0;
 	font-size: 55pt;
 	font-family: "Copperplate", fantasy;
