@@ -12,21 +12,21 @@ header {
 header h1 {
 	margin-top: 10px;
 	margin-bottom:0;
-  font-size: 55pt;
-  font-family: "Copperplate", fantasy;
+	font-size: 55pt;
+	font-family: "Copperplate", fantasy;
 }
 header h2 {
 	font-size: 40pt;
 	font-variant-caps: all-petite-caps;
 }
-h1+h2 {
-	margin-top: -15px;
-	
-}
 
 main h1 {
 	font-family: "Copperplate", fantasy;
 	font-size: 55pt;
+}
+h1+h2 {
+	margin-top: -15px;
+	
 }
 main h2 
 {
