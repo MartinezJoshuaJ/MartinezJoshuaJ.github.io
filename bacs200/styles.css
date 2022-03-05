@@ -11,18 +11,19 @@ header {
 }
 header h1 {
 	margin-bottom:0;
-	font-size: 55pt;
+	margin-top: 10px;
+	font-size: 60pt;
 	font-family: "Copperplate", fantasy;
 }
 header h2 {
-	font-size: 40pt;
+	font-size: 25pt;
 	font-variant-caps: all-petite-caps;
 }
 
 main h1 {
 	font-family: "Copperplate", fantasy;
-	font-size: 55pt;
-	margin-top: -20px;
+	font-size: 65pt;
+	margin: 0;
 }
 h1+h2 {
 	margin-top: -15px;
@@ -32,6 +33,7 @@ main h2
 {
 	font-family: "Copperplate", fantasy;
 	font-size: 25pt;
+	margin-bottom: 0;
 }
 main ul
 {
