@@ -40,12 +40,12 @@ main ul
 	display: table;
 	margin: 0 auto;
 	text-align: left;
+	border: 5px dashed black;
 }
 img {
 	padding-left: 50 px;
 }
 #wantedList {
-	padding-top: 10px;
 	font-size: 15pt;
 	float: right;
 }
