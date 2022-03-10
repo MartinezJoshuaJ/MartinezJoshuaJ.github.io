@@ -1,0 +1,136 @@
+.implication
+{
+    text-align: center;
+}
+header
+{
+    background-color: green;
+    font-size: 30px;
+}
+tfoot
+{
+    background-color: #3f87a6;
+    color: #fff;
+}
+h3 /*Alex Hart*/
+{
+    text-decoration-line: underline;
+    text-decoration-line: bold;
+    font-size:26pt;
+    padding:10px;
+    border: thick solid #00ff00;
+    background-color:#ff33cc;
+    font-family: fantasy;
+}
+footer {
+    font-size: 15pt;
+    color:gray;
+    font-style:italic;
+    font-family:Verdana, sans-serif;
+}
+em
+{
+    border: 5px dashed silver;
+    font-size: 50pt;
+}
+main
+{
+    color: purple;
+    font-family: Georgia;
+    font-weight: normal;
+    font-style: normal
+}
+th+td
+{
+   border-top: 3px solid green;
+}
+conclusion 
+{
+    text-color: gold;
+}
+caption {
+    text-align: left;
+}
+td
+{
+border: 1px solid #999;
+padding: 0.5rem;
+text-align: center;
+}
+mark
+{
+    background-color:rgb(170, 255, 0);
+}
+h1+h2 {
+    text-align: center;
+}
+ul
+{
+    font-size: 12px;
+}
+table {
+    border: 1px solid;
+    color: cadetblue
+}
+thead
+{
+    background-color: darkgreen;
+    vertical-align: bottom;
+    text-align: center;
+}
+h1 
+{
+    color: antiquewhite;
+    font-family: arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 0px;
+    margin-right: 4px;
+}
+tbody {
+    background-color: #ff91a4;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid #000000; 
+
+}
+t foot + td {
+    vertical-align: middle;
+    border-color: pink;
+}
+* {
+    margin: 10px;
+    padding: 10px;
+}
+img
+{
+    max-width: 100%;
+    border-radius: 1rem;
+}
+th{
+    margin-bottom: grey 10px;
+    background-color: antiquewhite;
+    font-size: 40px;
+}
+header h1
+{
+    font-size: 35pt;
+    text-decoration: underline;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+h2+p::first-letter {
+    color: white;
+    background-color: darkblue;
+    border-radius: 2px;
+    box-shadow: 3px 3px 0 gold;
+    font-size: 250%;
+    padding: 6px 3px;
+    margin-right: 6px;
+    float: left;
+}
+iframe
+{
+    width:100%;
+}
+
