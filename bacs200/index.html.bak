@@ -6,7 +6,16 @@
 <link rel="stylesheet" href="main.css"> 
 </head>
   <body>
-    <h1>BACS 200</h1>
+  
+<div class="topnav">
+  <a href="profile.html">Profile</a>
+  <a href="educate.html">Educate</a>
+  <a href="amuse.html">Amuse</a>
+
+</div>
+
+<div class="content">
+  <h1>BACS 200</h1>
     <img src="BearMascot.jpg" alt="Profile Pic" width="200">
     <h2>Projects</h2>
     <h3><a href="profile.html">Profile</a></h3>
@@ -18,6 +27,10 @@
     <h3><a href="superhero.html">Superhero</a></h3>
 	<h3><a href="wanted.html">Wanted</a></h3>
 	<h3><a href="blog.html">Blog</a></h3>
+</div>
 
+<div class="footer">
+  <p>Footer</p>
+</div>
   </body>
 </html>
