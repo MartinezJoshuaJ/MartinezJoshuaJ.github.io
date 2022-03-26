@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>BACS 200</title>
+<link rel="stylesheet" href="main.css"> 
 </head>
   <body>
     <h1>BACS 200</h1>
