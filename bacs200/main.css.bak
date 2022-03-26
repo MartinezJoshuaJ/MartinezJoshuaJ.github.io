@@ -35,6 +35,7 @@ body {
 .content {
   background-color: #013C65;
   padding: 10px;
+  height: 200px; /* Should be removed. Only for demonstration */
 }
 
 /* Style the footer */
