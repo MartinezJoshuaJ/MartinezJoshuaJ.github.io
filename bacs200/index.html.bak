@@ -3,62 +3,34 @@
 <head>
 <title>CSS Template</title>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-/* Style the top navigation bar */
-.topnav {
-  overflow: hidden;
-  background-color: #F6B000;
-}
-
-/* Style the topnav links */
-.topnav a {
-  float: left;
-  display: block;
-  color: #013C65;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-/* Change color on hover */
-.topnav a:hover {
-  background-color: #013C65;
-}
-
-/* Style the content */
-.content {
-  background-color: #013C65;
-}
-
-/* Style the footer */
-.footer {
-  background-color: #F6B000;
-
-}
-</style>
+<meta name="stylesheet" href="main.css">
 </head>
 <body>
 <main>
 <div class="topnav">
-  <a href="#">Link</a>
-  <a href="#">Link</a>
-  <a href="#">Link</a>
+  <a href="profile.html">Profile</a>
+  <a href="educate.html">Educate</a>
+  <a href="amuse.html">Amuse</a>
+
 </div>
 
 <div class="content">
-  <h2>CSS Template</h2>
-  <p>A topnav, content and a footer.</p>
+  <h1>BACS 200</h1>
+    <img src="BearMascot.jpg" alt="Profile Pic" width="200">
+    <h2>Projects</h2>
+    <h3><a href="profile.html">Profile</a></h3>
+    <h3><a href="inspire.html">Inspire</a></h3>
+    <h3><a href="amuse.html">Amuse</a></h3>
+    <h3><a href="educate.html">Educate</a></h3>
+    <h3><a href="template.html">Template</a></h3>
+    <h3><a href="test.html">Test</a></h3>
+    <h3><a href="superhero.html">Superhero</a></h3>
+	<h3><a href="wanted.html">Wanted</a></h3>
+	<h3><a href="blog.html">Blog</a></h3>
+</div>
+
+<div class="footer">
+  <p>Footer</p>
 </div>
 
 </main>
