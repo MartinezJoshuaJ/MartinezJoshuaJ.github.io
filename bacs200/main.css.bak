@@ -14,7 +14,7 @@ body {
 	
 	text-align: center;
 	background-color: 013C65;
-	margin: 1 in;
+	margin: auto;
 }
 .topnav a {
   float: center;
