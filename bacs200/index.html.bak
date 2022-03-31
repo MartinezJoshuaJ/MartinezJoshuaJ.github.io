@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>CSS Template</title>
 <meta charset="utf-8">
-<meta name="stylesheet" href="main.css">
+<title>BACS 200</title>
+<link rel="stylesheet" href="main.css">
 </head>
 <body>
   
@@ -15,7 +15,7 @@
   <h1>BACS 200</h1>
     <img src="BearMascot.jpg" alt="Profile Pic" width="200">
     <h2>Projects</h2>
-    <h3><a href="profile.html">Profile</a></h3>
+    <button on click="profile.html">Profile</a></h3>
     <h3><a href="inspire.html">Inspire</a></h3>
     <h3><a href="amuse.html">Amuse</a></h3>
     <h3><a href="educate.html">Educate</a></h3>
