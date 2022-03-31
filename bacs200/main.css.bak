@@ -17,7 +17,6 @@ body {
 	margin: auto;
 }
 .topnav a {
-  float: center;
   display: block;
   color: #F6B000;
   background-color: #013C65;
