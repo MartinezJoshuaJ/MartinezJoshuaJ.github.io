@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 h1{
     background-color: 013C65 ;
     font-size: 30px;
@@ -60,4 +59,3 @@ a:link {
 	background-color: #013C65;
 	margin: auto;
 }
-</html>
