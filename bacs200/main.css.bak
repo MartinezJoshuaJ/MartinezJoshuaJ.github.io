@@ -41,12 +41,12 @@ body {
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
-  background-color: #013C65;
+  background-color: #F6B000;
 }
 
 
 .button:hover {
-  background-color: #F6B000;
+  background-color: #013C65;
   color: #013C65;
 }
 a:link {
