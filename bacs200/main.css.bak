@@ -30,7 +30,7 @@ body {
   background-color: #F6B000;
   color: black;
 }
-.button {
+.button1 {
   border: none;
   color: #013C65;
   padding: 16px 32px;
