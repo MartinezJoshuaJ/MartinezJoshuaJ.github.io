@@ -49,3 +49,8 @@ body {
   background-color: #F6B000;
   color: #013C65;
 }
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
