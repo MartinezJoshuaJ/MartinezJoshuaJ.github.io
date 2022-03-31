@@ -1,22 +1,21 @@
-
-* {
-  box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
+h1
+{
+    background-color: 013C65 ;
+    font-size: 30px;
+	text-align: center;
 }
-
-body {
-  margin: 1;
-  font-family: Arial, Helvetica, sans-serif;
+.content {
+  background-color: #013C65;
+  padding: 5px;
   text-align: center;
 }
 
-/* Style the top navigation bar */
-.topnav {
-  overflow: hidden;
-  background-color: #013C65;
+body {
+	
+	text-align: center;
+	background-color: 013C65;
+	margin: 1 in;
 }
-
-/* Style the topnav links */
 .topnav a {
   float: center;
   display: block;
@@ -30,16 +29,4 @@ body {
 .topnav a:hover {
   background-color: #F6B000;
   color: black;
-}
-
-/* Style the content */
-.content {
-  background-color: #013C65;
-  padding: 10px;
-  text-align: center;
-}
-
-/* Style the footer */
-.footer {
-  background-color: #F6B000;
 }
