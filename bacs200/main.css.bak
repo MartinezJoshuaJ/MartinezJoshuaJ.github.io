@@ -58,3 +58,6 @@ a:link {
 	background-color: #013C65;
 	margin: auto;
 }
+p{
+	text-align: center;
+}
