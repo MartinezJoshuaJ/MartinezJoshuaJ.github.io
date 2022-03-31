@@ -20,6 +20,7 @@ body {
   float: center;
   display: block;
   color: #F6B000;
+  background-color: #013C65;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
