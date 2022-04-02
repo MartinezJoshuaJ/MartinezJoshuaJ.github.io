@@ -6,9 +6,6 @@
         <link rel="stylesheet" href="https://sanchez-s.github.io/bacs200/css/bacs200.css"> 
     </head>
     <body>
-	<div class="topnav">
-  <a href="index.html">Home Page</a>
-</div>
 			<header>
 				<h1>&lt;Headline&gt;</h1>
 				<p>&lt;Explain issue&gt;</p>
