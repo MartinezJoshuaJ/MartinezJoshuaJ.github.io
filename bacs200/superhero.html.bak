@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
+		<link rel="stylesheet" href="main.css">
 		<title>Superhero Team</title>
 		<style>
 			caption
@@ -28,11 +29,6 @@
 			table
 			{
 				border-spacing: 0px;
-			}
-			body
-			{
-				background-color: lightblue;
-				
 			}
 		</style>
 	</head>

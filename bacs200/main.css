@@ -69,3 +69,12 @@ p{
 ul {
 	text-align: center;
 }
+caption {
+	font-size: 32px;
+	font-family: Impact, fantasy;
+}
+th {
+	width: 200px;
+	font-size: 20px;
+	color: black;
+}

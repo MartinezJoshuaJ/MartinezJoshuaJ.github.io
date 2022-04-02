@@ -56,6 +56,9 @@ a:link {
   background-color: transparent;
   text-decoration: none;
 }
+a:href {
+	color:white;
+}
 .footer {
 	background-color: #013C65;
 	margin: auto;
