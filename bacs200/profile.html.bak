@@ -6,6 +6,9 @@
   <title>My Profile Page</title>
   </head>
   <body>
+  <div class="topnav">
+  <a href="index.html">Home Page</a>
+</div>
     <h1> Joshua Martinez</h1>
     <img src="mcb.png" alt="Profile Pic" width="200">
     <p>Hi, my name is Joshua Martinez.</p>
