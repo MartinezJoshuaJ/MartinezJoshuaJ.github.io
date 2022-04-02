@@ -2,13 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-	<link rel="stylesheet" href="main.css">
     <title>Page Title</title>
   </head>
   <body>
-  <div class="topnav">
-	<a href="index.html">Home Page</a>
-	</div>
     <h1>Headline</h1>
   </body>
 </html>
