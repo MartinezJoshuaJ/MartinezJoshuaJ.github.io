@@ -46,7 +46,7 @@ body {
   background-color: #F6B000;
 }
 
-a:link {
+a, a:link, a:visited {
   color: white;
   background-color: transparent;
   text-decoration: none;
@@ -55,9 +55,7 @@ a:link {
   background-color: #837543;
   color: #013C65;
 }
-a:href {
-	color:white;
-}
+
 .footer {
 	background-color: #013C65;
 	margin: auto;
