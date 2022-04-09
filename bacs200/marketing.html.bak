@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+	<link rel="stylesheet" href="main.css">
+    <title>Special Olympics</title>
+  </head>
+  <body>
+  <div class="topnav">
+	<a href="index.html"><a>
+	</div>
+    <h1>Special Olympics</h1>
+  </body>
+</html>
