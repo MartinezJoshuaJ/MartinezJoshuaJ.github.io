@@ -9,10 +9,11 @@
 <div class="topnav">
   <a href="index.html">Home Page</a>
 </div>
-	<img src="specialOlympicsLogo.png" alt pic="Special Olympics Logo" width="800">
+	
 	<div class="row">
 	<div class="column">
     <h2>Mission Statement</h2>
+	<img src="teamSO.jpg" alt pic="Special Olympics Logo" width="800">
     <p>"The mission of Special Olympics is to provide year-round sports training and athletic competition in a variety of Olympic-type sports for children and adults with intellectual disabilities, giving them continuing opportunities to develop physical fitness, demonstrate courage, experience joy and participate in a sharing of gifts, skills and friendship with their families, other Special Olympics athletes and the community."
 	</p>
 	<p>
@@ -23,14 +24,19 @@
   
   <div class="column">
     <h2>About</h2>
+	<img src="joySO.jpg" img alt="specialOlympics" height="100"></a>
     <p>Special Olympics consists of 30 olympic-style sports to bring together the 200 million people worldwide who have an intellectual disability. Since its' foundation in 1968, Special Olympics bestow confidence, florish health, both physically and mentally, and while dispsensing the benefits of healthy competition. As the website of Special Olympics so eloquenty puts, "We focus on what the athletes CAN DO not what they can't do."</p>
   </div>
   
   <div class="column">
     <h2>Impact felt around the world</h2>
+	<img src="victory.jpg" img alt="specialOlympics" height="100"></a>
+	
     <p>
 	Growing up I participated in the Summer and Winter Special Olympics as a volunteer. While volunteering, I was able to participate in various sports with the athletes. I remember as a kid participating in the snowshoe events up in Vail, Colorado. Seeing the joy on everyone's faces because they finally had a platform to be themselves, was life-changing.  
 	</p>
+	<p>
+	<button class="button" type="button" onclick="location.href='educate.html';">Educate</button> 
   </div>
 </div>
   </body>
