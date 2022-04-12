@@ -9,7 +9,7 @@
 <div class="topnav">
   <a href="index.html">Home Page</a>
 </div>
-	<img scr="specialOlympicsLogo.png" alt="logo" width="850">
+	<img scr="specialOlympicsLogo.png" alt="logo" width="700">
 	<div class="row">
 	<div class="column">
     <h2>Mission Statement</h2>
