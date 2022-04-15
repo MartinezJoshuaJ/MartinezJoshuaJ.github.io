@@ -60,6 +60,8 @@ a, a:link, a:visited {
 .footer {
 	background-color: #013C65;
 	position: fixed;
+	left: 0;
+	bottom: 0;
 	text-align: center;
 }
 p{
