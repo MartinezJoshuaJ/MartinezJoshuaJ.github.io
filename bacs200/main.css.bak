@@ -59,7 +59,7 @@ a, a:link, a:visited {
 
 .footer {
 	background-color: #013C65;
-	margin: auto;
+	position: fixed;
 }
 p{
 	text-align: center;
@@ -116,7 +116,4 @@ table
   .column {
     width: 100%;
   }
-}
-img {
-  border-radius: 40%;
 }
